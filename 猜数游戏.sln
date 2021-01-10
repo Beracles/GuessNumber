@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "猜数游戏", "猜数游戏\猜数游戏.vcxproj", "{46701DD3-23D5-48C1-AF5F-371E07D69CC1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GuessNumber", "GuessNumber\GuessNumber.vcxproj", "{0734FE27-AEEA-4CAC-8A05-B78EFCB969F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{46701DD3-23D5-48C1-AF5F-371E07D69CC1}.Debug|x64.ActiveCfg = Debug|x64
-		{46701DD3-23D5-48C1-AF5F-371E07D69CC1}.Debug|x64.Build.0 = Debug|x64
-		{46701DD3-23D5-48C1-AF5F-371E07D69CC1}.Debug|x86.ActiveCfg = Debug|Win32
-		{46701DD3-23D5-48C1-AF5F-371E07D69CC1}.Debug|x86.Build.0 = Debug|Win32
-		{46701DD3-23D5-48C1-AF5F-371E07D69CC1}.Release|x64.ActiveCfg = Release|x64
-		{46701DD3-23D5-48C1-AF5F-371E07D69CC1}.Release|x64.Build.0 = Release|x64
-		{46701DD3-23D5-48C1-AF5F-371E07D69CC1}.Release|x86.ActiveCfg = Release|Win32
-		{46701DD3-23D5-48C1-AF5F-371E07D69CC1}.Release|x86.Build.0 = Release|Win32
+		{0734FE27-AEEA-4CAC-8A05-B78EFCB969F0}.Debug|x64.ActiveCfg = Debug|x64
+		{0734FE27-AEEA-4CAC-8A05-B78EFCB969F0}.Debug|x64.Build.0 = Debug|x64
+		{0734FE27-AEEA-4CAC-8A05-B78EFCB969F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{0734FE27-AEEA-4CAC-8A05-B78EFCB969F0}.Debug|x86.Build.0 = Debug|Win32
+		{0734FE27-AEEA-4CAC-8A05-B78EFCB969F0}.Release|x64.ActiveCfg = Release|x64
+		{0734FE27-AEEA-4CAC-8A05-B78EFCB969F0}.Release|x64.Build.0 = Release|x64
+		{0734FE27-AEEA-4CAC-8A05-B78EFCB969F0}.Release|x86.ActiveCfg = Release|Win32
+		{0734FE27-AEEA-4CAC-8A05-B78EFCB969F0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
